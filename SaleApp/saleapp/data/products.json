@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 16",
+    "price": 20000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955526/apple-iphone-16-ultramarine_jj1lxj.webp",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 16 plus",
+    "price": 25000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955630/Apple_iPhone_16_Plus_black_front_back1_ohc0jn.png",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Iphone 16 pro",
+    "price": 28000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955577/apple-iphone-16-pro-max-desert-titanium_dejeed.webp",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Iphone 16 promax",
+    "price": 30000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730960630/54bdfe5e-ed00-4d8e-a412-df63c2b7d13d_nljotm.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Macbook pro",
+    "price": 40000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955755/mbp14-spaceblack-select-202410_zkp1xy.jpg",
+    "category_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Macbook air",
+    "price": 35000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955769/mba13-midnight-select-202402_nxgqza.jpg",
+    "category_id": 3
+  },
+  {
+    "id": 7,
+    "name": "Ipad pro",
+    "price": 30000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955789/refurb-ipad-pro-12-wifi-spacegray-2021_roqke5.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 8,
+    "name": "Ipad air",
+    "price": 25000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955801/61k05QwLuML._AC_UF1000_1000_QL80__dtzujw.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Ipad mini",
+    "price": 20000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955828/refurb-ipad-mini-wifi-pink-gallery-2022_AV1_n7ppa6.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Ipad gen 10",
+    "price": 15000000,
+    "image": "https://res.cloudinary.com/dqe19i7og/image/upload/v1730955843/61hZrbHRMWL._AC_UF894_1000_QL80__lagzlr.jpg",
+    "category_id": 2
+  }
+]
