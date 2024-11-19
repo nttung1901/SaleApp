@@ -21,7 +21,7 @@ def login_my_user():
     if request.method.__eq__('POST'):
         username = request.form.get('username')
         password = request.form.get('password')
-        if username.__eq__('admin') and password.__eq__('123'):
+        if dao.auth_user(username, password):
             return redirect('/')
     return render_template('login.html')
 
