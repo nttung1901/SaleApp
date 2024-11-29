@@ -27,8 +27,8 @@ def load_products(q=None, cate_id=None):
 
 def auth_user(username, password):
     password = str(hashlib.md5(password.encode('utf-8')).hexdigest())
-    return User.query.filter(username.__eq__(username),
-                                 password.__eq__(password)).first()
+    return User.query.filter(User.username.__eq__(username),
+                            User.password.__eq__(password)).first()
 
 
 def load_product_by_id(id):
