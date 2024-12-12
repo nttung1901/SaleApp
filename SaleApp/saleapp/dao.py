@@ -35,6 +35,10 @@ def auth_user(username, password):
                             User.password.__eq__(password)).first()
 
 
+def get_user_by_id(user_id):
+    return User.query.get(user_id)
+
+
 def load_product_by_id(id):
     with open('data/products.json', encoding='utf-8') as f:
         products = json.load(f)
